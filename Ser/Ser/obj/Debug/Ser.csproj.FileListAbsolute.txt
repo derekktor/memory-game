@@ -1,0 +1,8 @@
+D:\baldka\testing\Ser\Ser\bin\Debug\Ser.exe.config
+D:\baldka\testing\Ser\Ser\bin\Debug\Ser.exe
+D:\baldka\testing\Ser\Ser\bin\Debug\Ser.pdb
+D:\baldka\testing\Ser\Ser\obj\Debug\Ser.csproj.AssemblyReference.cache
+D:\baldka\testing\Ser\Ser\obj\Debug\Ser.csproj.SuggestedBindingRedirects.cache
+D:\baldka\testing\Ser\Ser\obj\Debug\Ser.csproj.CoreCompileInputs.cache
+D:\baldka\testing\Ser\Ser\obj\Debug\Ser.exe
+D:\baldka\testing\Ser\Ser\obj\Debug\Ser.pdb

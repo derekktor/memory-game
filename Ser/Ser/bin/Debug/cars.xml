@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRentedCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RentedCar>
+    <CurrentCar>
+      <Make>Hyundai</Make>
+      <Model>Sonata</Model>
+      <Engine>V6</Engine>
+      <Color>Black</Color>
+    </CurrentCar>
+    <Renter>
+      <FName>Derek</FName>
+      <LName>Hale</LName>
+    </Renter>
+  </RentedCar>
+  <RentedCar>
+    <CurrentCar>
+      <Make>Toyota</Make>
+      <Model>Land Cruiser</Model>
+      <Engine>GT</Engine>
+      <Color>Green</Color>
+    </CurrentCar>
+    <Renter>
+      <FName>John</FName>
+      <LName>McCall</LName>
+    </Renter>
+  </RentedCar>
+</ArrayOfRentedCar>
